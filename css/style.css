@@ -1,0 +1,94 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #A8A6A7;
+    font-family: 'Inter', sans-serif;
+    height: 1000px;
+}
+.contener{
+    margin: 10px 0 0 10px;
+}
+
+.contener img{
+    width: 500px;
+    height: 100%;
+    margin-bottom: 30px;
+    border-bottom: solid red 3px;
+}
+
+.contener h1{
+    background-color: azure;
+    padding: 5px;
+    width: 500px;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
+
+.contener hr{
+    height: 3px;
+    border-bottom: 0;
+    background-color: white;
+    margin-bottom: 30px;
+}
+.contener p{
+    background-color: azure;
+    padding: 5px;
+    width: 500px;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+.contener span{
+    text-transform: capitalize;
+    background-color: azure;
+    padding: 5px 227px 5px 5px;
+    width: 500px;
+    font-size: 40px;
+    
+}
+.contener form input{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 31px;
+    
+}
+.contener form{
+    margin-top: 21px;
+    position: relative;
+}
+.contener form .form_style{
+    background-color: azure;
+    padding: 5px;
+}
+.contener form :nth-child(1){
+    padding-left: 37px;
+    
+}
+.contener .aa{
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 500;
+    display: inline;
+    padding: 0px;
+    margin-left: 27px;
+}
+.contener form .radio{
+    position: absolute;
+    top: 161px
+}
+.my-bage{
+    font-size: 30px;
+    font-weight: 800;
+
+}
+nav{
+    background-color: aqua;
+    align-items: center;
+    border-bottom: #fff;
+}
+
+
+
